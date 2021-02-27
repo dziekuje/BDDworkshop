@@ -4,7 +4,7 @@ import os
 
 
 def _home_dir():
-    return os.getenv('BDDTTER_STORAGE', '/Users/myszon/Projects/BDDWorkshop/.storage')
+    return os.getenv('BDDTTER_STORAGE', '.storage') # or change this to your user directory
 
 
 def store(filename, data):
