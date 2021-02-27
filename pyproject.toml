@@ -2,7 +2,7 @@
 name = "bddworkshop"
 version = "0.1.0"
 description = ""
-authors = ["Bartosz Mikulski <mail@mikulskibartosz.name>"]
+authors = [""]
 
 [tool.poetry.dependencies]
 python = "^3.8"
